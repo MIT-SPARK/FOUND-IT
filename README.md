@@ -269,7 +269,7 @@ will be a consistent map in Viser between the two sessions.
 # Running onboard a robot
 
 The additional code (such as grasping) needed to run onboard a AgileX Cobot Magic robot with Nero arm can 
-be found [here](https://github.com/lopenguin/analytic_grasp_ros)
+be found [here](https://github.com/MIT-SPARK/FOUND-IT_robot)
 
 # Acknowledgement
 
