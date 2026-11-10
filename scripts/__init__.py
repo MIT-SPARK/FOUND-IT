@@ -1,0 +1,1 @@
+"""Marks scripts/ as a regular package so it shadows uniception's top-level `scripts`."""
